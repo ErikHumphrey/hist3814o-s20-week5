@@ -20,5 +20,4 @@ Each week of the course has its own repository dedicated to it, though they all 
 
 #### Future weeks
 
-
 * [Week 6](https://github.com/ErikHumphrey/hist3814o-s20-week6)
