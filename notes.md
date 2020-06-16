@@ -4,6 +4,8 @@
 
 ### Podcasting
 
+* I used Soundcloud to host the short podcast excerpt I made.
+
 ### Sonification
 
 ## Mapping
@@ -22,13 +24,19 @@
 
 ## Posters
 
-### Vector versus raster graphics
-
-### Colour Theory
-
-### Typography
+* Though I had heard of Inkscape before, I had not used it until this exercise.
 
 ### Sprucing up a PDF in Inkscape
+
+* That is indeed quite the simple graphic / histogram / bar chart.
+* Compared to Photoshop's default of holding Shift (or in recent years, *not* holding Shift), along with many other programs' Shift usage for the same purpose, Ctrl + Shift is a bit of an unusual keyboard combo for keeping proportions the same.
+* It's not immediately clear how to set a stroke colour on a rectangle. I ended up right-clicking the shape and clicking "Fill and Stroke..." in the context menu.
+* I made a bar cyan, then for the legend, I created a cyan rectangle (square) and put some text that made it seem like there was an increase in articles due to a fictional "1819 Italian economic miracle" event.
+* The export option was actually called "Export PNG Image". I'm not sure if I need to select everything for the export to work, either, but maybe that gave it the nice dimensions that only show the chart, rather than the whole canvas (including the empty parts).
+* This is pretty handy; I had thought PDFs were much harder to edit than this. I will probably keep this software installed unless I find a better alternative!
+
+![Raster graphic of the edited chart](https://i.imgur.com/ofyssWT.png "Raster graphic of the edited chart")  
+*Raster graphic of the edited chart*
 
 ### Making an academic poster
 

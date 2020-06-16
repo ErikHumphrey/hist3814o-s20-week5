@@ -11,3 +11,9 @@ Podcasting, Sonification, StoryMaps, and Leaflets didn't resonate too much with 
 
 
 > With regard to your own work, reflect on your design choices and the story you’re trying to tell, or the interesting thing you’ve found.
+
+* With the webmaps, 
+* With the academic poster made in Inkscape,  
+* With the podcast, I spoke whatever came to mind for about five minutes, unscripted and unedited. That tells a story of authenticity, sincerity, genuineness and down-to-earthedness; it's more believable, and the casual tone and simple, unrehearsed language suggests it's unhearsed even if I am actually coming up with stuff on the spot. 
+* Though sonification can be improved, a first attempt seems to be mostly guesswork and rather abstract philosophy or pseudoscience. This specific instance doesn't feel like it would help anyone understand historical data, but in manipulating the audio, I tried to...TODO
+* WIth the static website, I was not going for any particular design choices or story (other than picking a simple and predictable template); in this case, the website wasn't ambitious and the goal was to have a simple navigation. I'd use no theme if possible!

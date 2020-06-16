@@ -1,0 +1,3 @@
+[submodule "posters/academic-poster/svg-conference-poster"]
+	path = posters/academic-poster/svg-conference-poster
+	url = https://github.com/ugosan/svg-conference-poster
