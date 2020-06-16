@@ -20,13 +20,27 @@
 
 ### Webmapping with Leaflet
 
+* I didn't experience any issues setting up the webmap or using `python` to start a webserver.
+
 ### Adding a new layer to our map
+
+* That works pretty well! I've been hoping to do more with map services and APIs for the longest time; the possibilities seem truly endless.
 
 ### Georectifying a base map
 
+* The scan is a bit askew, but I chose a plan of the township of Nepean, 1824, [MIKAN 4131276](http://collectionscanada.gc.ca/ourl/res.php?url_ver=Z39.88-2004&url_tim=2020-06-16T21%3A37%3A12Z&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&rft_dat=4131276&rfr_id=info%3Asid%2Fcollectionscanada.gc.ca%3Apam&lang=eng). 
+* Hey, not bad. It overlaid almost perfectly for only three points. Here's the exported rectified PNG map; it turned out pretty well. The original in the repository has transparency.
+
+  ![Rectified map](https://i.imgur.com/FqFwCZH.jpg "Rectified map")  
+  *Rectified map*
+
 ### Adding a layer control button
 
+* No issues with this part.
+
 ### Adding animation
+
+* No issues with this part. This could prove useful in the future.
 
 ## Posters
 
