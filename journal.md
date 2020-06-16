@@ -6,14 +6,7 @@ There are pros and cons to the approach I took with creating a static websiteWit
 
 Podcasting, Sonification, StoryMaps, and Leaflets didn't resonate too much with me. Due to time constraints, I didn't spend as much time on creating a poster as I normally would, but posters can vary highly in quality. Even so, they're limited and it's tough to make them reflect well on the work; the layout of the poster is more interesting than the works it's meant to showcase. I think static websites are truly the most capable of painting the best picture of my historian's craft, even if it was just hyperlinks this time and not so visual. The tools used for mapping this week were highly impressive, though for the most part, maps aren't very compelling to me, and I was not very inspired to continue using the tools or make similar tools of my own.
 
-> How did your findings and observations relate to your own work?
-
-
-
-> With regard to your own work, reflect on your design choices and the story you’re trying to tell, or the interesting thing you’ve found.
-
 * With the brief StoryMap I made, I tried to be informative enough by using real historical facts and images, while using clever word choice to make it sound like an epic saga of a hero on a mission. I also made sure to refer to specific locations that could be compared with those pinned on the map, for example, locations relative to the position of the Nile.
-* With the webmaps, I did not make any specific design choices or attempt to tell a specific story.
 * With the academic poster made in Inkscape, 
 * With the podcast, I spoke whatever came to mind for about five minutes, unscripted and unedited. That tells a story of authenticity, sincerity, genuineness and down-to-earthedness; it's more believable, and the casual tone and simple, unrehearsed language suggests it's unhearsed even if I am actually coming up with stuff on the spot. 
 * Though sonification can be improved, a first attempt seems to be mostly guesswork and rather abstract philosophy or pseudoscience. This specific instance doesn't feel like it would help anyone understand historical data, but in manipulating the audio, I tried to...TODO
