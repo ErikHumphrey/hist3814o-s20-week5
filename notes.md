@@ -4,7 +4,7 @@
 
 ### Podcasting
 
-* I used Soundcloud to host the short podcast excerpt I made.
+* I talked about whatever came to mind regarding "things that have driven me nuts about learning digital history" for about five minutes as a short podcast excerpt and saved it to the file "podcast.mp3". I only did one take and didn't plan or draft any ideas beforehand.
 
 ### Sonification
 
@@ -63,6 +63,35 @@
 *Raster graphic of the edited chart*
 
 ### Making an academic poster
+
+* It's entirely possible that I wouldn't have done a post-secondary academic essay by now, but luckily, I do have one.
+  * I picked a very brief paper—just over two pages, double-spaced—written in TSES 3001: Technology–Society Interaction. Perhaps it's more of a report than an essay, but I don't remember the specifics. Hopefully there's enough material here to create a quick poster about it. 
+* Normally, I would use an Adobe suite tool to create a poster, so I didn't trouble myself too long with making the poster while forcing myself to use Inkscape. Considering I'm working with time constraints, it would also be quite time-consuming to fine-tune the details.
+* Luckily, this step suggests working from a template, so I don't have to spend too much time on the design so much as critiquing the layout I chose.
+* I chose the "poster.svg" template and renamed it "poster-template.svg" before working on it. The general look to it reminded me of posters I've seen at the Canada Science and Technology Museum that were about satellites; dark blue, white, and grey is a recurring colour scheme with space technology, it seems. Because the essay I chose is about a satellite, it's perfect.
+* Other difficulties I encountered using Inkscape included:
+  * Difficulty pasting in text to existing text boxes
+  * Undoing typing tends to undo one letter at a time
+  * Pasting in text separated it into two separate text boxes for some reason
+  * Resizing text fields isn't easy and might distort the proportions of the text
+  * Certain elements not coming back with an undo after being deleted
+  * Certain layers not rendering properly
+
+!["Partial progress on an academic psoter demonstrating I mostly get the idea"](https://i.imgur.com/V2BgdUW.jpg "Partial progress on an academic poster demonstrating I mostly get the idea")
+*Partial progress on an academic poster demonstrating I mostly get the idea*
+
+#### Layout
+
+##### What did work
+
+* The poster features a pseudo-three-dimensional effect by purposefully overlaying an image of the satellite over a boundary, making it pop out.
+* The colours match the theme well, and are mostly earth tones (blue, grey). Using two primary colours (blue and yellow), and different shades of the same colour (gradients), it followed basic colour theory.
+* Yellow colours are used to highlight parts of an acronym.
+
+##### What didn't work
+
+* The template I chose had more space for information than I had to fill it, so I had to lop off the top half of it.
+* I wasn't able to pay much heed to the rule of thirds or golden ratios.
 
 ## Static websites
 
