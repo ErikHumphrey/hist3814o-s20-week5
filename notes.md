@@ -8,6 +8,10 @@
 
 ### Sonification
 
+* A tool that generates an audio track from data in a CSV. This seems like a niche use, but you could use it to create some background music for a video of another visualization rather than trying to pitch-shift or guess the notes yourself.
+* Here, I did not feel the need to change much; the most distinct change is changing the instrument to Church Organ, which was fitting given the pace and slow change of the data.
+* I exported both a "sonification-roman-count-of-coins.mp3" and a "sonification-roman-count-of-other-materials.mp3".
+
 ## Mapping
 
 ### Telling stories with StoryMaps
