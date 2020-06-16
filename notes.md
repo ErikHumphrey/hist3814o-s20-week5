@@ -12,6 +12,12 @@
 
 ### Telling stories with StoryMaps
 
+* [I made a StoryMap about King Tut's adventures in Ancient Egypt](https://uploads.knightlab.com/storymapjs/d1b23d0d71274aab66568347ebc8e1d4/demo-story-map/index.html).
+* I mostly used images from Wikipedia and Wikimedia Commons.
+* I noticed that the location entered would be lost if I switched slides without saving, so I made sure to save after choosing a location for the slide.
+* I wish I could have just entered a coordinate pair from Google Maps rather than using KnightLab's coordinate syntax. I could have easily been more precise that way.
+* Overall, the software is easy and quick to use.
+
 ### Webmapping with Leaflet
 
 ### Adding a new layer to our map
