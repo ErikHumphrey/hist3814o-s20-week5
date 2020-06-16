@@ -1,24 +1,13 @@
 # Journal — Week 5
 
-> What did you find intriguing, compelling, and effective about the various sites and projects you explored this week?
+I personally prefer visual or interactive experiences over purely audial experiences, so while listening to a podcast or sonification is convenient and hands-free when one's ears are otherwise unoccupied, it's a slow way of distributing/consuming digital history that doesn't realistically allow the user to consume the content at their own pace or in their own tailored manner.
 
+There are pros and cons to the approach I took with creating a static websiteWith static websites, all the Jekyll themes available on GitHub Pages were overkill for the use case. With all the whitespace, a user's focus wouldn't immediately be on the content of the page if they were to visit the website, especially as in this case, it was just a series of hyperlinks in an unordered list. But I think it would be worse if there were images or tables. If I used static websites to show off my work, I would explore using a much more minimalist template or starting from scratch with simple HTML and maybe even no CSS at all. For this same reason, many gallery websites—not necessary of visual arts, often of historical documents as well—have simple white (or solid colour) backgrounds, so that there is no focus taken away from the content.
 
+Podcasting, Sonification, StoryMaps, and Leaflets didn't resonate too much with me. Due to time constraints, I didn't spend as much time on creating a poster as I normally would, but posters can vary highly in quality. Even so, they're limited and it's tough to make them reflect well on the work; the layout of the poster is more interesting than the works it's meant to showcase. I think static websites are truly the most capable of painting the best picture of my historian's craft, even if it was just hyperlinks this time and not so visual. The tools used for mapping this week were highly impressive, though for the most part, maps aren't very compelling to me, and I was not very inspired to continue using the tools or make similar tools of my own.
 
 > How did your findings and observations relate to your own work?
 
 
 
 > With regard to your own work, reflect on your design choices and the story you’re trying to tell, or the interesting thing you’ve found.
-
-
-
-> Critically evaluate the thing(s) you’ve made; perhaps show them to someone outside of this course and ask for their feedback.
-
-
-
-> Did they understand the point you were trying to make? What was effective, for them, and what was confusing?
-
-
-
-> What had an impact on you and how you think of your own historian’s craft?
-
